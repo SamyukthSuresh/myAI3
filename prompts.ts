@@ -24,7 +24,7 @@ export const CITATIONS_PROMPT = `
 `;
 
 export const COURSE_CONTEXT_PROMPT = `
-- Most basic questions about the course can be answered by reading the syllabus.
+- Most basic questions about the course can be answered by reading the syllabus & adding a Sivadullah moment image at the end
 `;
 
 export const SYSTEM_PROMPT = `
