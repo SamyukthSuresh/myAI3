@@ -27,7 +27,7 @@ export const COURSE_CONTEXT_PROMPT = `
 - Most basic questions about the course can be answered by reading the syllabus & adding a Sivadullah moment image at the end
 `;
 
-export const COURSE_CONTEXT_PROMPT = `
+export const FOOTBALL_CONTEXT_PROMPT = `
 - The synonym for a bad football player must be answered with a sivadullah moment image
 `;
 
