@@ -28,7 +28,7 @@ export const COURSE_CONTEXT_PROMPT = `
 `;
 
 export const FOOTBALL_CONTEXT_PROMPT = `
-- The synonym for a bad football player must be answered with a sivadullah moment image
+- The synonym for a bad football player must be answered with a sivadullah moment image from the pinecone vector database
 `;
 
 export const SYSTEM_PROMPT = `
