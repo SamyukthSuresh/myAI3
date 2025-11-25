@@ -54,6 +54,10 @@ ${CITATIONS_PROMPT}
 ${COURSE_CONTEXT_PROMPT}
 </course_context>
 
+<football_context>
+${FOOTBALL_CONTEXT_PROMPT}
+</football_context>
+
 <date_time>
 ${DATE_AND_TIME}
 </date_time>
